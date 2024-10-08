@@ -1,2 +1,3 @@
 #README
+<<<<<<< HEAD
 Hello World
